@@ -1,0 +1,6 @@
+funcion corre;
+corriendo asigna 1;
+FIN;
+corriendo suma(corriendo,1);
+llama corre;
+cansado suma(cansado,1);

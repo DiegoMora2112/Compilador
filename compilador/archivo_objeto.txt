@@ -1,0 +1,8 @@
+corre:
+corriendo=1;
+goto L*0:
+fin:
+corriendo=corriendo+1;
+call corre:
+L*0:
+cansado=cansado+1;
